@@ -15,7 +15,7 @@ require (
 	github.com/bet365/jingo v1.2.1
 	github.com/bitly/go-simplejson v0.5.1
 	github.com/boombuler/barcode v1.0.1
-	github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23
+	github.com/buger/jsonparser v1.1.1
 	github.com/coocood/qbs v0.0.0-20170418011607-8554e18a96c9
 	github.com/derkan/gobenchorm v0.0.0-20201006081351-7cfd4673694c
 	github.com/eaigner/hood v0.0.0-20131009113532-ca2c4bd5f4dd
@@ -85,7 +85,6 @@ require (
 	github.com/uptrace/opentelemetry-go-extra/otelsql v0.3.0
 	github.com/wI2L/jettison v0.7.4
 	github.com/xuri/excelize/v2 v2.8.1
-	github.com/zenazn/goji v0.9.0
 	go.mongodb.org/mongo-driver v1.13.1
 	go.opentelemetry.io/otel v1.27.0
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0
